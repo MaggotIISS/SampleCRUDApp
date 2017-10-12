@@ -1,0 +1,17 @@
+||:org.netbeans.modules.customerdb.JavaDBSupport
+java.lang.StringBuilder
+org.openide.util.Exceptions
+java.io.File
+java.lang.IllegalStateException
+org.openide.util.NbBundle
+java.lang.Process
+java.lang.Class
+java.util.logging.Level
+java.lang.System
+java.util.logging.Logger
+org.openide.util.BaseUtilities
+org.netbeans.modules.customerdb.JavaDBSupport
+java.lang.Object
+java.io.IOException
+org.openide.execution.NbProcessDescriptor
+java.lang.String
